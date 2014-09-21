@@ -488,8 +488,8 @@ msgid "This is the error message in the taxonomy-custom_cat.php template."
 msgstr "Ceci est le message d'erreur de la page taxonomy-custom_cat.php."
 
 #. Theme Name of the plugin/theme
-msgid "Bones (Rename Me!)"
-msgstr "Bones (renommez moi !)"
+msgid "Grealish Bones"
+msgstr "Grealish Bones"
 
 #. Theme URI of the plugin/theme
 msgid "http://www.themble.com/bones"
